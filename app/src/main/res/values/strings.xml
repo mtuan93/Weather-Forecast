@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherForecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="forecasts_title">Hourly Forecast</string>
+    <string name="startButton">START</string>
+    <string name="title_activity_main">Main Activity</string>
+
+</resources>
